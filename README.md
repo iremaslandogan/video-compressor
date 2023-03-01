@@ -29,7 +29,7 @@ videoCompressor(input,output)
 
 
 ## 🚀 Example
-[https://github.com/iremaslandogan/video-compressor-example.git](https://github.com/dmcardoso/video-compressing)
+[https://github.com/iremaslandogan/video-compressor-example.git](https://github.com/iremaslandogan/video-compressor-example)
 
 
 ## Related
